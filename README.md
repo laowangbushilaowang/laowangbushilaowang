@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello GitHub 👋
 
 <!--
 [![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
